@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+# NuGet
+packages/
+*.nupkg
+# If using PackageReference, you can ignore packages folder
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# Others
+_TestResults/
+[Tt]est[Rr]esults/
+*.cache
+*.log
+
+# VS Code
+.vscode/
