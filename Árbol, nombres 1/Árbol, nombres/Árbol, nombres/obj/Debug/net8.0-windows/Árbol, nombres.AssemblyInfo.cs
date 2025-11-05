@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Árbol, nombres")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2a02f704d3cfaed89ad0d0f8a59429f702bc7c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Árbol, nombres")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Árbol, nombres")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

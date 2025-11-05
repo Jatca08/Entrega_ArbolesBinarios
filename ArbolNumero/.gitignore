@@ -1,5 +1,6 @@
 # Visual Studio
 .vs/
+**/.vs/
 *.suo
 *.user
 *.userosscache
@@ -9,6 +10,8 @@
 # Build results
 bin/
 obj/
+**/[Bb]in/
+**/[Oo]bj/
 [Bb]uild/
 [Ll]og/
 

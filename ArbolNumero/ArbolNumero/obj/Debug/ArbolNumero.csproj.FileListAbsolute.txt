@@ -8,3 +8,14 @@ C:\Users\Jatniel17\Desktop\II semestre\Programación estructurada\trabajoMiercol
 C:\Users\Jatniel17\Desktop\II semestre\Programación estructurada\trabajoMiercoles5\ArbolNumero\ArbolNumero\obj\Debug\ArbolNumero.csproj.CoreCompileInputs.cache
 C:\Users\Jatniel17\Desktop\II semestre\Programación estructurada\trabajoMiercoles5\ArbolNumero\ArbolNumero\obj\Debug\ArbolNumero.exe
 C:\Users\Jatniel17\Desktop\II semestre\Programación estructurada\trabajoMiercoles5\ArbolNumero\ArbolNumero\obj\Debug\ArbolNumero.pdb
+C:\Users\ervin\Source\Repos\Entrega_ArbolesBinarios\ArbolNumero\ArbolNumero\bin\Debug\ArbolNumero.exe.config
+C:\Users\ervin\Source\Repos\Entrega_ArbolesBinarios\ArbolNumero\ArbolNumero\bin\Debug\ArbolNumero.exe
+C:\Users\ervin\Source\Repos\Entrega_ArbolesBinarios\ArbolNumero\ArbolNumero\bin\Debug\ArbolNumero.pdb
+C:\Users\ervin\Source\Repos\Entrega_ArbolesBinarios\ArbolNumero\ArbolNumero\obj\Debug\ArbolNumero.csproj.AssemblyReference.cache
+C:\Users\ervin\Source\Repos\Entrega_ArbolesBinarios\ArbolNumero\ArbolNumero\obj\Debug\ArbolNumero.exe.config
+C:\Users\ervin\Source\Repos\Entrega_ArbolesBinarios\ArbolNumero\ArbolNumero\obj\Debug\ArbolNumero.Form1.resources
+C:\Users\ervin\Source\Repos\Entrega_ArbolesBinarios\ArbolNumero\ArbolNumero\obj\Debug\ArbolNumero.Properties.Resources.resources
+C:\Users\ervin\Source\Repos\Entrega_ArbolesBinarios\ArbolNumero\ArbolNumero\obj\Debug\ArbolNumero.csproj.GenerateResource.cache
+C:\Users\ervin\Source\Repos\Entrega_ArbolesBinarios\ArbolNumero\ArbolNumero\obj\Debug\ArbolNumero.csproj.CoreCompileInputs.cache
+C:\Users\ervin\Source\Repos\Entrega_ArbolesBinarios\ArbolNumero\ArbolNumero\obj\Debug\ArbolNumero.exe
+C:\Users\ervin\Source\Repos\Entrega_ArbolesBinarios\ArbolNumero\ArbolNumero\obj\Debug\ArbolNumero.pdb

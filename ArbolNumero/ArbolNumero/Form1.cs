@@ -69,7 +69,7 @@ using System.Windows.Forms;
 
             // Botón para resetear el árbol
             btnReset = new Button();
-            btnReset.Text = "Resetar Árbol";
+            btnReset.Text = "Resetear Árbol";
             btnReset.Location = new Point(400, 34);
             btnReset.Click += BtnReset_Click;
             this.Controls.Add(btnReset);
@@ -284,7 +284,7 @@ using System.Windows.Forms;
             }
         }
 
-        // Evento al hacer clic en "Resetar Árbol"
+        // Evento al hacer clic en "Resetear Árbol"
         private void BtnReset_Click(object sender, EventArgs e)
         {
             // Confirmar antes de borrar todo
