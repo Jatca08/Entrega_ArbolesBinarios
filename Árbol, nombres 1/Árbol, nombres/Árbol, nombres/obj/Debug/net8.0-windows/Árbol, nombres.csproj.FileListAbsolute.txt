@@ -1,0 +1,32 @@
+C:\Users\ferza\Desktop\ejercicios clase\Árbol, nombres\Árbol, nombres\bin\Debug\net8.0-windows\Árbol, nombres.exe
+C:\Users\ferza\Desktop\ejercicios clase\Árbol, nombres\Árbol, nombres\bin\Debug\net8.0-windows\Árbol, nombres.deps.json
+C:\Users\ferza\Desktop\ejercicios clase\Árbol, nombres\Árbol, nombres\bin\Debug\net8.0-windows\Árbol, nombres.runtimeconfig.json
+C:\Users\ferza\Desktop\ejercicios clase\Árbol, nombres\Árbol, nombres\bin\Debug\net8.0-windows\Árbol, nombres.dll
+C:\Users\ferza\Desktop\ejercicios clase\Árbol, nombres\Árbol, nombres\bin\Debug\net8.0-windows\Árbol, nombres.pdb
+C:\Users\ferza\Desktop\ejercicios clase\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\Árbol__nombres.Form1.resources
+C:\Users\ferza\Desktop\ejercicios clase\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\Árbol, nombres.csproj.GenerateResource.cache
+C:\Users\ferza\Desktop\ejercicios clase\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\Árbol, nombres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferza\Desktop\ejercicios clase\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\Árbol, nombres.AssemblyInfoInputs.cache
+C:\Users\ferza\Desktop\ejercicios clase\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\Árbol, nombres.AssemblyInfo.cs
+C:\Users\ferza\Desktop\ejercicios clase\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\Árbol, nombres.csproj.CoreCompileInputs.cache
+C:\Users\ferza\Desktop\ejercicios clase\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\Árbol, nombres.dll
+C:\Users\ferza\Desktop\ejercicios clase\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\refint\Árbol, nombres.dll
+C:\Users\ferza\Desktop\ejercicios clase\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\Árbol, nombres.pdb
+C:\Users\ferza\Desktop\ejercicios clase\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\Árbol, nombres.genruntimeconfig.cache
+C:\Users\ferza\Desktop\ejercicios clase\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\ref\Árbol, nombres.dll
+C:\Users\Jatniel17\Desktop\Árbol, nombres 1\Árbol, nombres\Árbol, nombres\bin\Debug\net8.0-windows\Árbol, nombres.exe
+C:\Users\Jatniel17\Desktop\Árbol, nombres 1\Árbol, nombres\Árbol, nombres\bin\Debug\net8.0-windows\Árbol, nombres.deps.json
+C:\Users\Jatniel17\Desktop\Árbol, nombres 1\Árbol, nombres\Árbol, nombres\bin\Debug\net8.0-windows\Árbol, nombres.runtimeconfig.json
+C:\Users\Jatniel17\Desktop\Árbol, nombres 1\Árbol, nombres\Árbol, nombres\bin\Debug\net8.0-windows\Árbol, nombres.dll
+C:\Users\Jatniel17\Desktop\Árbol, nombres 1\Árbol, nombres\Árbol, nombres\bin\Debug\net8.0-windows\Árbol, nombres.pdb
+C:\Users\Jatniel17\Desktop\Árbol, nombres 1\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\Árbol__nombres.Form1.resources
+C:\Users\Jatniel17\Desktop\Árbol, nombres 1\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\Árbol, nombres.csproj.GenerateResource.cache
+C:\Users\Jatniel17\Desktop\Árbol, nombres 1\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\Árbol, nombres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jatniel17\Desktop\Árbol, nombres 1\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\Árbol, nombres.AssemblyInfoInputs.cache
+C:\Users\Jatniel17\Desktop\Árbol, nombres 1\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\Árbol, nombres.AssemblyInfo.cs
+C:\Users\Jatniel17\Desktop\Árbol, nombres 1\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\Árbol, nombres.csproj.CoreCompileInputs.cache
+C:\Users\Jatniel17\Desktop\Árbol, nombres 1\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\Árbol, nombres.dll
+C:\Users\Jatniel17\Desktop\Árbol, nombres 1\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\refint\Árbol, nombres.dll
+C:\Users\Jatniel17\Desktop\Árbol, nombres 1\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\Árbol, nombres.pdb
+C:\Users\Jatniel17\Desktop\Árbol, nombres 1\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\Árbol, nombres.genruntimeconfig.cache
+C:\Users\Jatniel17\Desktop\Árbol, nombres 1\Árbol, nombres\Árbol, nombres\obj\Debug\net8.0-windows\ref\Árbol, nombres.dll
